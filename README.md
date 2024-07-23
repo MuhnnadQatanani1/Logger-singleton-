@@ -1,3 +1,4 @@
+why it needs to be a singleton?
 Consistent Logging: Ensures all log messages are processed consistently, avoiding fragmented log entries.
 Resource Management: Optimizes resource usage by having a single instance handle all logging operations.
 Global Access: Provides an easy access point for logging throughout the application without passing around the logger instance.
